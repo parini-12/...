@@ -1,0 +1,33 @@
+body{
+    background: burlywood;
+    font-family: 'Alkalami', serif;
+}
+
+.header_div{
+    background: pink;
+    color: aqua;
+    font-family: 'Cedarville Cursive', cursive;
+}
+
+.main_div{
+    color-scheme: red,yellow,green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color-interpolation-filters: linearRGB;
+    font-size: 18px;
+    background-color: brown,slateblue,turquoise;
+    text-align: center;
+    line-height: 3;
+    text-shadow: 5px 5px 5px rgb(rgb(219, 200, 200), rgb(34, 176, 34), rgb(206, 224, 228));
+}
+
+.main_div button{
+    background-color: blueviolet;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
